@@ -594,7 +594,7 @@ body {
   border-top-left-radius: 100%;
   border-left: 2vmin solid #079097;
   background-image: linear-gradient(to bottom, transparent, var(--dark-color) 60%);
-  -webkit-mask-image: linear-gradient(to top, transparent 30%, #079097 60%);
+  -webkit-mask-image: linear-gradient(to top, transparent 30%, #fa61d1 60%);
 }
 .flower__g-right--1 {
   -webkit-animation: flower-g-right-ans 2.5s linear infinite;
