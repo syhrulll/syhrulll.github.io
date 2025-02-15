@@ -956,7 +956,7 @@ body {
   transform: scale(0.8) rotate(-5deg);
 }
 .long-g--1 .leaf {
-  -webkit-mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
+  -webkit-mask-image: linear-gradient(to top, transparent 40%, #fa61d1 80%) !important;
 }
 .long-g--1 .leaf--1 {
   --w: 5vmin;
@@ -971,7 +971,7 @@ body {
   transform: scale(0.6) rotateX(60deg);
 }
 .long-g--2 .leaf, .long-g--3 .leaf {
-  -webkit-mask-image: linear-gradient(to top, transparent 50%, #079097 80%) !important;
+  -webkit-mask-image: linear-gradient(to top, transparent 50%, #fa61d1 80%) !important;
 }
 .long-g--2 .leaf--1, .long-g--3 .leaf--1 {
   left: -1vmin;
@@ -982,7 +982,7 @@ body {
   bottom: 0vmin;
 }
 .long-g--3 .leaf {
-  -webkit-mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
+  -webkit-mask-image: linear-gradient(to top, transparent 40%, #fa61d1 80%) !important;
 }
 .long-g--4 {
   left: 25vmin;
@@ -991,7 +991,7 @@ body {
   transform: scale(0.6) rotateX(60deg);
 }
 .long-g--4 .leaf {
-  -webkit-mask-image: linear-gradient(to top, transparent 50%, #079097 80%) !important;
+  -webkit-mask-image: linear-gradient(to top, transparent 50%, #fa61d1 80%) !important;
 }
 .long-g--5 {
   left: 42vmin;
